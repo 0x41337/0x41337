@@ -70,4 +70,4 @@ Open to collaborating on interesting and innovative projects.
 ![heroku](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 
 <h2>Contact me <img src="https://github.com/0x41337/0x41337/blob/81bae24712ca7248153f63dd1764aa2dba73a81d/hand.gif" width="28px"></h2>
-<p> I build stuff for the web/native just contact me at **041337@proton.me** to see how I can help you.</p>
+<p> I build stuff for the web/native just contact me at <b>041337@proton.me</b> to see how I can help you.</p>
