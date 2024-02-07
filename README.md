@@ -17,6 +17,7 @@ Open to collaborating on interesting and innovative projects.
 
 ### Frameworks and Libs
 #### Ui
+![Lit](https://img.shields.io/badge/Lit-000000?style=for-the-badge&logo=lit&logoColor=white)
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
 ![Tailwindcss](https://img.shields.io/badge/Tailwindcss-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Styledcomponents](https://img.shields.io/badge/Styledcomponents-000000?style=for-the-badge&logo=styledcomponents&logoColor=white)
