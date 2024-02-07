@@ -67,7 +67,6 @@ Open to collaborating on interesting and innovative projects.
 ![heroku](https://img.shields.io/badge/Heroku-000000?style=for-the-badge&logo=heroku&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
 ![aws](https://img.shields.io/badge/aws-000000?style=for-the-badge&logo=amazonaws&logoColor=white)
-![heroku](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 
 <h2>Contact me <img src="https://github.com/0x41337/0x41337/blob/81bae24712ca7248153f63dd1764aa2dba73a81d/hand.gif" width="28px"></h2>
 <p> I build stuff for the web/native just contact me at <b>041337@proton.me</b> to see how I can help you.</p>
