@@ -1,4 +1,4 @@
-## Welcome to profile!
+# Welcome to profile!
 I'm **0x41337** (Gabriel), and I'm currently learning bout software development<br/>
 Open to collaborating on interesting and innovative projects.
 
@@ -23,14 +23,29 @@ Open to collaborating on interesting and innovative projects.
 
 #### Backend
 ![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=white)
+![Next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+#### Tests
+![Jest](https://img.shields.io/badge/Jest-000000?style=for-the-badge&logo=jest&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-000000?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-000000?style=for-the-badge&logo=puppeteer&logoColor=white)
+
+### Devops
+![Travisci](https://img.shields.io/badge/Travisci-000000?style=for-the-badge&logo=travisci&logoColor=white)
+![Circleci](https://img.shields.io/badge/Circleci-000000?style=for-the-badge&logo=circleci&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-000000?style=for-the-badge&logo=terraform&logoColor=white)
+![Github](https://img.shields.io/badge/Github_actions-000000?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-000000?style=for-the-badge&logo=jenkins&logoColor=white)
 
 #### Network
 ![socketdotio](https://img.shields.io/badge/Socketdotio-000000?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 #### Database
+![Amazons3](https://img.shields.io/badge/Amazons3-000000?style=for-the-badge&logo=Amazons3&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-000000?style=for-the-badge&logo=sequelize&logoColor=white)
 ![postgresql](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -47,6 +62,12 @@ Open to collaborating on interesting and innovative projects.
 ### Os
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white)
+
+### Hosts
+![heroku](https://img.shields.io/badge/Heroku-000000?style=for-the-badge&logo=heroku&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
+![aws](https://img.shields.io/badge/aws-000000?style=for-the-badge&logo=amazonaws&logoColor=white)
+![heroku](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 
 <h2>Contact me <img src="https://github.com/0x41337/0x41337/blob/81bae24712ca7248153f63dd1764aa2dba73a81d/hand.gif" width="28px"></h2>
 <p> I build stuff for the web/native just <a href="041337@proton.me">contact me</a> to see how I can help you.</p>
