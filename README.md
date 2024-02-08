@@ -4,6 +4,7 @@ Open to collaborating on interesting and innovative projects.
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=white)
 ![Java-Script](https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript-000000?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -17,7 +18,7 @@ Open to collaborating on interesting and innovative projects.
 
 ### Frameworks and Libs
 #### Ui
-![Lit](https://img.shields.io/badge/Lit-000000?style=for-the-badge&logo=lit&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
 ![Tailwindcss](https://img.shields.io/badge/Tailwindcss-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Styledcomponents](https://img.shields.io/badge/Styledcomponents-000000?style=for-the-badge&logo=styledcomponents&logoColor=white)
@@ -36,7 +37,6 @@ Open to collaborating on interesting and innovative projects.
 
 ### Devops
 ![Travisci](https://img.shields.io/badge/Travisci-000000?style=for-the-badge&logo=travisci&logoColor=white)
-![Circleci](https://img.shields.io/badge/Circleci-000000?style=for-the-badge&logo=circleci&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-000000?style=for-the-badge&logo=terraform&logoColor=white)
 ![Github](https://img.shields.io/badge/Github_actions-000000?style=for-the-badge&logo=githubactions&logoColor=white)
