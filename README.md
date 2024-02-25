@@ -3,6 +3,7 @@ I'm **0x41337** (Gabriel), and I'm currently learning bout software development<
 Open to collaborating on interesting and innovative projects.
 
 ### Languages
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=white)
 ![Java-Script](https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
@@ -31,9 +32,11 @@ Open to collaborating on interesting and innovative projects.
 
 #### Tests
 ![Jest](https://img.shields.io/badge/Jest-000000?style=for-the-badge&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-000000?style=for-the-badge&logo=cypress&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-000000?style=for-the-badge&logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=white)
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-000000?style=for-the-badge&logo=puppeteer&logoColor=white)
+
 
 ### Devops
 ![Travisci](https://img.shields.io/badge/Travisci-000000?style=for-the-badge&logo=travisci&logoColor=white)
